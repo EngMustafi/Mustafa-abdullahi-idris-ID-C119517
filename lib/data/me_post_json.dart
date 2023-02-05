@@ -1,0 +1,32 @@
+const List mePostList = [
+  "https://lh3.googleusercontent.com/a/AEdFTp67agN1A7zZUXlHA-Z1Ff-pQ8PhfcoE0Ty0rcUDqw=s432-p-rw-no",
+  "https://scontent.fmgq1-2.fna.fbcdn.net/v/t39.30808-6/324727266_863893028275417_2921126243937708340_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=iqeg2xk4YicAX-8wgpT&tn=_W_0U--Rkdiadbjq&_nc_ht=scontent.fmgq1-2.fna&oh=00_AfCKzHO6AaSLfC7YdIpqaJulJn4yOSuZTdNC6PDuUyPedA&oe=63E2571A",
+  "https://scontent.fmgq1-2.fna.fbcdn.net/v/t39.30808-6/314417645_1555306591573815_5825428368909273382_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=gx8962R6Go8AX_63rzW&_nc_ht=scontent.fmgq1-2.fna&oh=00_AfC_C4V7QID09QTyzzQW4i_LNuGhmvdzZ8gIfL-4UxTNXw&oe=63E2FCC3",
+  "https://scontent.fmgq1-2.fna.fbcdn.net/v/t39.30808-6/314417645_1555306591573815_5825428368909273382_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=gx8962R6Go8AX_63rzW&_nc_ht=scontent.fmgq1-2.fna&oh=00_AfC_C4V7QID09QTyzzQW4i_LNuGhmvdzZ8gIfL-4UxTNXw&oe=63E2FCC3"
+];
+const List meVideoList = [
+  {
+    "img":
+        "https://lh3.googleusercontent.com/a/AEdFTp67agN1A7zZUXlHA-Z1Ff-pQ8PhfcoE0Ty0rcUDqw=s432-p-rw-no",
+    "videoUrl":
+        "https://player.vimeo.com/external/473757570.sd.mp4?s=8ca9d81bd97708ba9d444bdda8ee2df2541e5b9c&profile_id=139&oauth2_token_id=57447761"
+  },
+  {
+    "img":
+        "https://lh3.googleusercontent.com/a/AEdFTp67agN1A7zZUXlHA-Z1Ff-pQ8PhfcoE0Ty0rcUDqw=s432-p-rw-no",
+    "videoUrl":
+        "https://player.vimeo.com/external/473757570.sd.mp4?s=8ca9d81bd97708ba9d444bdda8ee2df2541e5b9c&profile_id=139&oauth2_token_id=57447761"
+  },
+  {
+    "img":
+        "https://lh3.googleusercontent.com/a/AEdFTp67agN1A7zZUXlHA-Z1Ff-pQ8PhfcoE0Ty0rcUDqw=s432-p-rw-no",
+    "videoUrl":
+        "https://player.vimeo.com/external/473757570.sd.mp4?s=8ca9d81bd97708ba9d444bdda8ee2df2541e5b9c&profile_id=139&oauth2_token_id=57447761"
+  },
+  {
+    "img":
+        "https://lh3.googleusercontent.com/a/AEdFTp67agN1A7zZUXlHA-Z1Ff-pQ8PhfcoE0Ty0rcUDqw=s432-p-rw-no",
+    "videoUrl":
+        "https://player.vimeo.com/external/473757570.sd.mp4?s=8ca9d81bd97708ba9d444bdda8ee2df2541e5b9c&profile_id=139&oauth2_token_id=57447761"
+  },
+];
